@@ -68,7 +68,7 @@ input:-ms-input-placeholder, select:-ms-input-placeholder, textarea:-ms-input-pl
 }
 /* header */
 header .navbar-brand img {
-    max-height: 36px;
+    max-height: 50px;
 }
 .header-cart-icon .cart-count {
     font-size: 9px;
@@ -214,7 +214,7 @@ footer {
     line-height: 26px;
 }
 footer .footer-logo img {
-    max-height: 36px;
+    max-height: 50px !important;
 }
 .footer-dark a:hover {
     color: var(--white);
