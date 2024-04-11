@@ -19314,6 +19314,20 @@ footer .footer-navbar .nav-item:last-child a {
 .footer-demo img {
   max-height: 55px !important;
 }
+
+.support{
+
+  display: flex;
+  margin-bottom: 20px;
+  text-align: center;
+  justify-content: center;
+}
+.Copyright{
+ margin-left: 100px !important;
+}
+.image1{
+  height: auto !important;
+}
 @media only screen and (min-width:900px){
   .row.align-items-end{
 margin-top: 300px;
@@ -19438,3 +19452,4 @@ text-align: justify;
 .blogpara{
   padding-left: 0px;
 }
+
