@@ -19258,7 +19258,7 @@ footer .footer-navbar .nav-item:last-child a {
 .aboutpagesection1{
   text-align: justify;
   /* background-color: #000; */
-  margin-left: 90px;
+  /* margin-left: 90px; */
 }
 .atuursection1{
   text-align: justify;
@@ -19266,6 +19266,9 @@ footer .footer-navbar .nav-item:last-child a {
 
 .attursection1{
   text-align: justify;
+}
+.container.s {
+  margin-top: 0; /* Adjust this value as needed */
 }
 
 
