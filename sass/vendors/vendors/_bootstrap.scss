@@ -3972,9 +3972,9 @@ textarea.form-control-lg {
     --bs-navbar-toggler-transition: box-shadow 0.15s ease-in-out;
     position: relative;
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-evenly;
+    // flex-wrap: wrap;
+    // align-items: center;
+    // justify-content: space-between;
     padding: var(--bs-navbar-padding-y) var(--bs-navbar-padding-x);
 }
 .navbar > .container,
@@ -3985,11 +3985,10 @@ textarea.form-control-lg {
 .navbar > .container-xl,
 .navbar > .container-xxl {
     display: flex;
-    flex-wrap: inherit;
-    align-items: center;
-    /* justify-content: space-between; */
+    // flex-wrap: inherit;
+    // align-items: center;
+    // justify-content: space-between;
 }
-
 .navbar-brand {
     padding-top: var(--bs-navbar-brand-padding-y);
     padding-bottom: var(--bs-navbar-brand-padding-y);

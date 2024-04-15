@@ -133,7 +133,7 @@ h4 {
     color: var(--dark-gray);
 }
 section, footer {
-    /* padding-top: 100px; */
+    padding-top: 100px;
     padding-bottom: 100px;
 }
 /* btn */

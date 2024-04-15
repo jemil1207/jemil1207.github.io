@@ -5316,8 +5316,8 @@ input:focus, select:focus, textarea:focus, .form-control:focus {
   margin-bottom: 25px !important;
 }
 .mb-30px {
-  margin-bottom: 30px !important;
-  padding: 30px 70px;
+  margin-bottom: 22px !important;
+  padding: 18px 18px;
 }
 .mb-35px {
   margin-bottom: 35px !important;
@@ -19267,16 +19267,10 @@ footer .footer-navbar .nav-item:last-child a {
 .attursection1{
   text-align: justify;
 }
-.container.s {
-  margin-top: 0; /* Adjust this value as needed */
-}
 
 
 @media only screen and (min-width:320px) and (max-width:425px){
-  .aboutpagesection1{
-    text-align: justify;
-    margin-left: 90px;
-  }
+
 }
 @media only screen and (min-width:900px){
   
