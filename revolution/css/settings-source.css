@@ -1,3 +1,4 @@
+
 /*-----------------------------------------------------------------------------
 
 -	Revolution Slider 5.0 Default Style Settings -
@@ -1083,19 +1084,8 @@ img.tp-slider-alternative-image	{
 	position:absolute;
 }
 
-.tp-loader.spinner0 {
-	width: 40px;
-	height: 40px;
-	background-color: #fff;
-	background-image:url(../assets/loader.gif);
-	background-repeat:no-repeat;
-	background-position: center center;
-	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.15);	
-	margin-top:-20px;
-	margin-left:-20px;	
-	animation: tp-rotateplane 1.2s infinite ease-in-out;
-	border-radius: 3px;	
-}
+/* 
+ */
 
 
 .tp-loader.spinner1 {
@@ -1111,7 +1101,7 @@ img.tp-slider-alternative-image	{
 
 
 
-.tp-loader.spinner5 	{	
+/* .tp-loader.spinner5 	{	
 	background-image:url(../assets/loader.gif);
 	background-repeat:no-repeat;
 	background-position:10px 10px;
@@ -1126,7 +1116,7 @@ img.tp-slider-alternative-image	{
   0% { transform: perspective(120px) rotateX(0deg) rotateY(0deg);} 
   50% { transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);} 
   100% { transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);}
-}
+} */
 
 
 .tp-loader.spinner2 {
